@@ -1,0 +1,58 @@
+{
+    "name": "AniWave",
+    "short_name": "AniLite",
+    "scope": "https://aniwavelite-bt.blogspot.com/",
+    "start_url": "https://aniwavelite-bt.blogspot.com/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#ff0000",
+    "description": "AniWave Lite",
+    "icons": [{
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s48/logo.webp",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s72/logo.webp",
+      "sizes": "72x72",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s96/logo.webp",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s144/logo.webp",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s168/logo.webp",
+      "sizes": "168x168",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s192/logo.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3xwqLyVlRCJ3YZUc3XEY7CDUAtC5zDpYjR01c4YcY5QrY0vsVMl0OzAW_Nct9pnbqmhixyeB5ShsgPi6crl_ok626DjzR_1Gz1wt4uUp6_UIe7BnEX_XpHZn5GCTWr2CW6HI7TgqcD8lhBiE2UJV2JEQkaYP2je3QG1RdFXjNewlx4tLwupBggnZHRQM/s512/logo.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+    "screenshots": [
+    {
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihqiiWdUdXVlPc6ZvKlMghA_Tf2D04YJevHOYsTo248pqi7gLxbM_AW1vVACNpx4nsVcXG1jYvY2fc8hpIGsdFZMFnTGUaxfcgZ-zpW8-Kuo5acyzOytkxP0XVBG0yeSBvofcHyDVdNEOh_A2LN3nfTDJGeVtvxtQ-OuTvgD9kZ0Hg4yJ3FXQDvKkjxNE/w412-h915-p-k-no-nu/HexaNime_v3.jpg",
+        "type": "image/jpg",
+        "sizes": "412x915",
+        "form_factor": "narrow"
+        },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihqiiWdUdXVlPc6ZvKlMghA_Tf2D04YJevHOYsTo248pqi7gLxbM_AW1vVACNpx4nsVcXG1jYvY2fc8hpIGsdFZMFnTGUaxfcgZ-zpW8-Kuo5acyzOytkxP0XVBG0yeSBvofcHyDVdNEOh_A2LN3nfTDJGeVtvxtQ-OuTvgD9kZ0Hg4yJ3FXQDvKkjxNE/w1280-h720-p-k-no-nu/HexaNime_v3.jpg",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihqiiWdUdXVlPc6ZvKlMghA_Tf2D04YJevHOYsTo248pqi7gLxbM_AW1vVACNpx4nsVcXG1jYvY2fc8hpIGsdFZMFnTGUaxfcgZ-zpW8-Kuo5acyzOytkxP0XVBG0yeSBvofcHyDVdNEOh_A2LN3nfTDJGeVtvxtQ-OuTvgD9kZ0Hg4yJ3FXQDvKkjxNE/w640-h360-p-k-no-nu/HexaNime_v3.jpg",
+      "sizes": "640x360",
+      "type": "image/png"
+    }
+  ]
+  }
